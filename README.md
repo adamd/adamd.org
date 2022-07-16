@@ -1,2 +1,2 @@
 # adamd.org
-Personal website https://www.adamd.org
+Personal website https://adamd.org/
